@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GasOrderingApp</string>
+    <string name="available">Available</string>
+    <string name="outOfStock">Out Of Stock</string>
+</resources>
